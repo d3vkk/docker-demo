@@ -11,5 +11,5 @@ Fork or clone this repo
 git clone https://github.com/d3vkk/docker-demo.git
 ```
 
-© 2020 Donald K • Under MIT License
+© 2020-present Donald K • Under MIT License
 
